@@ -1,6 +1,6 @@
 ### Hi there 👋
-Проекты
-[a link](https://github.com/floks41/together-for-life-vk-bot/blob/master/README.md)
+### Проекты
+1. [a Чат-бот для официальной группы ВКонтакте благотворительной общественной организации "Вместе ради жизни"](https://github.com/floks41/together-for-life-vk-bot/blob/master/README.md)
 <!--
 **floks41/floks41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
