@@ -1,6 +1,8 @@
 ### Всем привет, 👋
 Меня зовут Олег, профессионально занимаюсь программированием с 2008 года. С 2022 года — python бекэнд разработчик.
+
 Здесь можно ознакомиться с моими python-проектами.
+
 Список используемых технологий и инструментов: Python, asyncio, SQL, ООП, алгоритмы и структуры данных, REST API, Django, Django REST Framework, DRF, Flask, FastAPI, Jinja2, Pydantyc, SQLAlchemy, Alembic, PostgreSQL, SQLite, Linux, Bash, Nginx, Gunicorn, Uvicorn, Git, Github, CI/CD, GitHub Actions, Docker, Docker Compose, Djoser, JWT, HTML, CSS, Bootstrap, парсинг, Beautiful Soup, Scrapy, CSV, Yandex Cloud. API телеграмм и VK, VS Code, PyCharm, Notion.
 ### Проекты
 1. [Чат-бот для официальной группы ВКонтакте благотворительной общественной организации "Вместе ради жизни".](https://github.com/floks41/together-for-life-vk-bot/blob/master/README.md)
